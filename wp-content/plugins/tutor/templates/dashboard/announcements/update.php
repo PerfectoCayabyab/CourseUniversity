@@ -1,0 +1,16 @@
+<!--update announcements modal-->
+<div class="tutor-modal-wrap tutor-announcements-modal-wrap tutor-accouncement-update-modal">
+	<div class="tutor-modal-content tutor-announcement-modal-content">
+		<div class="modal-header">
+			<div class="modal-title">
+				<h1>
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html_e() in C:\xampp\htdocs\course\wp-content\plugins\tutor\templates\dashboard\announcements\update.php:18
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\course\wp-content\plugins\tutor\templates\dashboard\announcements\update.php</b> on line <b>18</b><br>
+</h1>
+</div>
+</div>
+</div>
+</div>

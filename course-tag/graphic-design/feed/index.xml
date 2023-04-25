@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Graphic Design &#8211; Course University</title>
+	<atom:link href="https://perfectocayabyab.github.io/CourseUniversity/course-tag/graphic-design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://perfectocayabyab.github.io/CourseUniversity</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 May 2019 09:21:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Ultimate Photoshop Training: From Beginner</title>
+		<link>https://perfectocayabyab.github.io/CourseUniversity/courses/ultimate-photoshop-training-from-beginner-to-pro/</link>
+		
+		<dc:creator><![CDATA[perfadmin]]></dc:creator>
+		<pubDate>Fri, 17 May 2019 09:21:28 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.themeum.com/wordpress/edumax/?post_type=course&#038;p=248</guid>
+
+					<description><![CDATA[We focus on real-world cases and I present the best techniques that require minimal effort yet produce maximum results. All my content is focused on getting the job done in the least amount of time possible. I'll be using the latest version of the program - Photoshop CC 2019, but all the content is explained for all users, no matter what version you have installed. Photoshop Elements is not compatible with this course.   ]]></description>
+										<content:encoded><![CDATA[<p><strong>Are you new to PHP or need a refresher?</strong> Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and ending the course by building a CMS system similar to WordPress, Joomla or Drupal.<br />
+<strong>Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world.</strong> Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications.<br />
+Knowing <strong>PHP </strong>will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google.<br />
+<strong>There is no limit to what you can do with this knowledge.</strong> PHP is one of the most important web programming languages to learn, and knowing it, will give you <strong>SUPER POWERS</strong> in the web development world and job market place.<br />
+<strong>Why?</strong><br />
+Because Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it.<br />
+<strong>I will not bore you <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br />
+I take my courses very seriously but at the same time I try to make it fun since I know how difficult learning from an instructor with a monotone voice or boring attitude is. This course is fun, and when you need some energy to keep going, you will get it from me.<br />
+<strong>My Approach</strong><br />
+Practice, practice and more practice. Every section inside this course has a practice lecture at the end, reinforcing everything with went over in the lectures. I also created a small application the you will be able to download to help you practice PHP. To top it off, we will build and awesome CMS like WordPress, Joomla or Drupal.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
